@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": "9512",
+      "username": "M Gouthamm",
+      "password": "1234",
+      "fullname": "Gouthamm",
+      "email": "mgoutham@mallareddyuniversity.ac.in",
+      "phone": "123456",
+      "country": "india",
+      "address": "sadad",
+      "gender": "male"
+    },
+    {
+      "id": "4e8f",
+      "username": "sreekanth",
+      "password": "456",
+      "fullname": "Kottu Sreekanth",
+      "email": "sreekanthkottu@gmail.com",
+      "phone": "123456",
+      "country": "canada",
+      "address": "dsdasdad",
+      "gender": "male"
+    },
+    {
+      "id": "82b6",
+      "username": "Srikanth",
+      "password": "123456",
+      "fullname": "M Srikanth",
+      "email": "srikanth@gmail.com",
+      "phone": "123456",
+      "country": "india",
+      "address": "sdasdasd",
+      "gender": "male"
+    },
+    {
+      "id": "fe0d",
+      "username": "Srikanth",
+      "password": "123456",
+      "fullname": "M Srikanth",
+      "email": "sreekanthkottu@gmail.com",
+      "phone": "123456",
+      "country": "india",
+      "address": "dad",
+      "gender": "male"
+    },
+    {
+      "id": "a3af",
+      "username": "raviteja",
+      "password": "ravi",
+      "fullname": "Raviteja",
+      "email": "ravi@gmail.com",
+      "phone": "123456",
+      "country": "usa",
+      "address": "dasdasdad",
+      "gender": "male"
+    },
+    {
+      "id": "137b",
+      "username": "bharadwaj",
+      "password": "12345678",
+      "fullname": "K.H.S.Bharadwaj",
+      "email": "2211CS010297@mallareddyuniversity.ac.in",
+      "phone": "9701095575",
+      "country": "india",
+      "address": "madinaguda, hyd.",
+      "gender": "male"
+    },
+    {
+      "id": "436e",
+      "username": "Gunavardhan",
+      "password": "Guna_123",
+      "fullname": "Guna Vardhan",
+      "email": "guna@gmail.com",
+      "phone": "1234567890",
+      "country": "india",
+      "address": "Hyd",
+      "gender": "male"
+    },
+    {
+      "id": "3c12",
+      "username": "raviratnala",
+      "password": "123_Baruva",
+      "fullname": "Ravi",
+      "email": "ravi.arrowria@gmail.com",
+      "phone": "09030041189",
+      "country": "india",
+      "address": "Old bowenpally, Hyderabad",
+      "gender": "male"
+    }
+  ]
+}
